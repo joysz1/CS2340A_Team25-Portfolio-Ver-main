@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">2340Team25Game</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="enter_your_character_s_name">Enter your character\'s name:</string>
+    <string name="pick_a_difficulty">Pick a Difficulty:</string>
+    <string name="thanks_for_playing">Thanks For Playing!</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="play_again">Play Again</string>
+    <string name="end">End</string>
+    <string name="you_won">You Won!</string>
+</resources>
